@@ -120,7 +120,6 @@ Vendor_Master_Data_Quality_Dashboard/
 
 ## Dashboard Preview
 
-*Add screenshots of the Power BI dashboard here.*
 ![dashboard-image](screenshots/dashboard_overview.jpg)  
 ---
 
