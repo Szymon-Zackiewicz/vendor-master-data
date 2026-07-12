@@ -120,7 +120,7 @@ Vendor_Master_Data_Quality_Dashboard/
 
 ## Dashboard Preview
 
-![dashboard-image](screenshots/dashboard_overview.jpg)  
+![dashboard-image](Vendor_Master_Data_Quality_Dashboard/screenshots/dashboard_overview.jpg)  
 ---
 
 ## Project Goals
